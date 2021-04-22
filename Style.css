@@ -1,0 +1,56 @@
+body {
+  background-color: #012640;
+  }
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  color: grey;
+}
+
+.Linje{
+  align-items: center;
+}
+
+.Bilde{
+  width: 1500px;
+  border-radius: 0px;
+  border-color: Grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nope {
+text-align: center;
+color: white;
+}
+
+.ingress1 {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  Color: grey;
+  font-size: 20px;
+}
+
+.Liste {
+  text-align: center;
+  font-weight: normal;
+  font-style: normal;
+  color: grey;
+  font-size: 20px;
+  list-style-position: inside;
+  margin-bottom: 5px
+}
+
+.Endtext {
+  margin-left: 50px;
+  font-weight: bold;
+  font-style: italic;
+  Color: grey;
+  font-size: 20px;
+  text-align: center;
