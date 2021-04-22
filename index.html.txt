@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Valborg's hjemmeside</title>
+    <title>Valborg's</title>
     <link rel="stylesheet" href="Style.css">
   </head>
   <body>
